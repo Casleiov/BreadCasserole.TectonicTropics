@@ -1,0 +1,13 @@
+{
+  "Group": "Bread Casserole",
+  "Name": "Tectonic Tropics",
+  "Version": "1.0.0",
+  "Authors": [],
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
